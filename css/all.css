@@ -2,5 +2,12 @@
   width: 225px;
   height: 225px;
   background: #000;
-  background: url('../../line_cony.png');
+  background: url('/img/line_brown.png');
+}
+
+.box2 {
+  width: 225px;
+  height: 225px;
+  background: #000;
+  background: url('../img/line_brown.png');
 }
