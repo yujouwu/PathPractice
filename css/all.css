@@ -1,0 +1,6 @@
+.box {
+  width: 225px;
+  height: 225px;
+  background: #000;
+  background: url('../../line_cony.png');
+}
